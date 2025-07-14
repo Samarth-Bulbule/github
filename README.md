@@ -1,3 +1,3 @@
 # github
-thia is my first respositry
+this is my first respositry
 author-samarth bulbule
